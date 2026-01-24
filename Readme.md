@@ -162,15 +162,6 @@ This project follows modern design principles:
 “Every click, every swipe, every experience — designed with intention.”
 
 ⸻
-
-👤 Leadership
-
-Topic Lead: Kartik Chilkoti
-
-“Great design leadership empowers teams to think, explore, and create.”
-
-⸻
-
 🙏 Special Thanks
 
 Special thanks to the Smartly Creators Program —
