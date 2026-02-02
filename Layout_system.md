@@ -230,3 +230,8 @@ A hierarchical grid refers to any irregular grid that accommodates specific cont
   
 
 ![Hierarchical grid layout](https://i.pinimg.com/736x/61/9e/d1/619ed1f8443e3755a9465d023c26a7c9.jpg)
+
+
+
+
+
